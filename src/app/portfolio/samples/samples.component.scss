@@ -1,0 +1,23 @@
+.samples-container {
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sample-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.sample-item h3 {
+  margin-top: 0;
+}
+
+.sample-item p {
+  margin-bottom: 0;
+  color: #666;
+}
